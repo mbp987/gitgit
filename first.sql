@@ -1,0 +1,3 @@
+modyfikacja
+pierwsza
+i kolejna
